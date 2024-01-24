@@ -24,8 +24,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'https://abhi192809.github.io/TTJ-Projact/';
-
 /*
+
 |--------------------------------------------------------------------------
 | Index File
 |--------------------------------------------------------------------------
