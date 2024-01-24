@@ -31,6 +31,3 @@ class Dashboard extends CI_Controller
         $this->load->view('dashboard/footer');
     }
 }
-## License
-
-RuangAdmin is an open source and that is licensed under **[MIT](http://opensource.org/licenses/MIT)**
